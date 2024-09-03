@@ -29,9 +29,6 @@ Begin your journey to mastering SciPy today by exploring the topics covered in t
 ## Contribute
 We welcome contributions! If you have additional insights, examples, or topics you'd like to see covered, feel free to submit a pull request.
 
-## License
-This guide is licensed under the MIT License.
-
 ## Contact
 For questions, suggestions, or feedback, please contact us at email rajashahab912@gmail.com.
 
